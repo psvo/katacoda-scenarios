@@ -16,6 +16,6 @@
         "uilayout": "editor-terminal"
     },
     "backend": {
-        "imageid": "java8"
+        "imageid": "ubuntu"
     }
 }
